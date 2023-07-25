@@ -25,3 +25,4 @@ The human body contains numerous organs, each specialised for different function
 # Conclusion 
 In summary, microcontrollers act as the brain of electronic systems, just like the human brain controls and communicates with the rest of the body. They receive input from sensors, process the data, make decisions, and send signals to actuators to perform actions. This parallel between the human body's communication system and microcontroller functionality helps us understand how these intelligent devices play a crucial role in countless electronic applications, from simple gadgets to sophisticated control systems.
 
+## Additional features
